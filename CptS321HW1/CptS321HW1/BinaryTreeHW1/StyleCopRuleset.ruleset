@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="StyleCopRuleset" ToolsVersion="14.0">
+  <Include Path="..\..\gal's assignment 1\gal's assignment 1\assignment 1.ruleset" Action="Default" />
+  <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
+    <Rule Id="SA1633" Action="None" />
+  </Rules>
+</RuleSet>

@@ -1,0 +1,6 @@
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\bin\Debug\BinaryTreeHW1.exe.config
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\bin\Debug\BinaryTreeHW1.exe
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\bin\Debug\BinaryTreeHW1.pdb
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\obj\Debug\BinaryTreeHW1.csprojResolveAssemblyReference.cache
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\obj\Debug\BinaryTreeHW1.exe
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\BinaryTreeHW1\BinaryTreeHW1\obj\Debug\BinaryTreeHW1.pdb

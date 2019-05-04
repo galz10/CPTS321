@@ -1,0 +1,12 @@
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe.config
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.pdb
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Documents\Visual Studio 2015\Projects\CPTS 321\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.pdb
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe.config
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.pdb
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.pdb

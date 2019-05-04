@@ -1,0 +1,6 @@
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe.config
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\bin\Debug\TreeCodeDemo.pdb
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\ExpressionTreeApp.csprojResolveAssemblyReference.cache
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.exe
+C:\Users\Galz10\Desktop\TreeCodeDemo\TreeCodeDemo\TreeCodeDemo\obj\Debug\TreeCodeDemo.pdb
