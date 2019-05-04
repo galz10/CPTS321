@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <cell>
+    <column>A</column>
+    <row>1</row>
+    <text>10</text>
+    <color>4294967295</color>
+  </cell>
+  <cell>
+    <column>B</column>
+    <row>1</row>
+    <text>=A1*4</text>
+    <color>4294967295</color>
+  </cell>
+  <cell>
+    <column>A</column>
+    <row>2</row>
+    <text>=A1*2</text>
+    <color>4294967295</color>
+  </cell>
+  <cell>
+    <column>A</column>
+    <row>3</row>
+    <text>=A1*3</text>
+    <color>4294967295</color>
+  </cell>
+</Spreadsheet>
